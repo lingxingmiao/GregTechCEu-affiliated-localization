@@ -1,9 +1,1 @@
-# 恭喜来到这个页面，沨茫非常的庆祝（？）
-
-## 命名格式
-
-### <MC百科ID/CuresForge Modrinth 名称> <模组版本>.zip
-
-## 翻译来源
-
-[Translator Lang](https://github.com/lingxingmiao/Tools/tree/main/Minecraft%20AI%E7%BF%BB%E8%AF%91%E5%B7%A5%E5%85%B7)
+随机拉屎 可以想要本地化的提交Issues 给个链接和版本我就本地化 语言可以自选
